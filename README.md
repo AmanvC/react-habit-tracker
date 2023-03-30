@@ -1,3 +1,15 @@
+# Project Overview
+
+This is a React application to track daily habits and mark them as done, untracked or not done. Get a weekly overview of each habit and stay focused towards your habits. The application is fully responsive.
+
+## How to use?
+
+1. Make sure you have already installed Nodejs and React.
+2. Clone this repository.
+3. In the main project folder, open terminal or command prompt, and then type npm install.
+4. Wait for npm install to execute completely.
+5. In command prompt, execute npm start. In sometime, the application will be running on localhost:3000.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
